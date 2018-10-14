@@ -5,4 +5,4 @@ lang: en-us
 
 # Technical
 
-[Basics of Programming]('/basicprogramming.html')
+[Basics of Programming](./BasicProgramming.md)
