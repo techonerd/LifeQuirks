@@ -7,3 +7,4 @@ title: 'LifeQuirks'
 ## Sections
 
 [Technical](./Technical/)
+
