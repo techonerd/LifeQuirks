@@ -135,11 +135,7 @@ The ones falling into the category of [unary](https://en.wikipedia.org/wiki/Unar
  ```
   
   And when it is placed after the variable name (also called post-increment operator), its value is preserved temporarily until the execution of this statement and it gets updated before the execution of the next statement. 
-  ```
- int a = 5;
-a++;          //a becomes 7
- ```
-
+ 
 - Decrement: 
 
   The ‘–-‘ operator is used to decrement the value of an integer. When placed before the variable name (also called pre-decrement operator), its value is decremented instantly. 
@@ -149,11 +145,9 @@ a++;          //a becomes 7
  ```
   
   And when it is placed after the variable name (also called post-decrement operator), its value is preserved temporarily until the execution of this statement and it gets updated before the execution of the next statement. 
- ```
- int a = 5;
-a--;          //a becomes 5
- ```
- For a better understanding of pre & post increment and decrement operators, refer to *increment and decrement operators* page.
+
+ For a better understanding of pre & post increment and decrement operators, refer to increment and decrement operators  [explaination](./operators.md) page.
+
 ### Relational Operators:
 
 Relational operators are used for comparison of two values. Let’s see them one by one:
