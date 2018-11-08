@@ -247,3 +247,6 @@ Within the Multiplication() function,
 We declared the integer variables of Multi and also we have two integer (a, b) arguments in the function. This means, this function will allow the user to pass 2 integer values.
 
 In the next line we Multiplied both a and b using Arithmetic operator ( * ).
+```
+Multi = a * b;
+```
